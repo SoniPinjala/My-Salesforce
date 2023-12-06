@@ -1,0 +1,8 @@
+.example-accordion{
+    --sds-c-accordion-summary-color-background:#f3f3f3;
+    text-decoration: none;
+}
+
+.slds-accordion__content{
+    margin-top: 50px;
+}
